@@ -1,3 +1,10 @@
+## Demo
+
+
+https://github.com/V22X4/GetMyLocation/assets/96458962/775e5224-1e85-44ff-a0e6-f6db9c1223aa
+
+
+
 This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
 
 ## Getting Started
